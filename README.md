@@ -7,8 +7,8 @@ To perform image transformation such as Translation, Scaling, Shearing, Reflecti
 Anaconda - Python 3.7
 
 ## Algorithm:
-## Developed by: P. Ramsai
-## Reg no: 212221240041
+## Developed by: Ragul VK
+## Reg no: 212221240043
 ### Step1:
 Import all the necessary modules.
 
